@@ -17,5 +17,5 @@
 * [12-CSS3的转换,过渡,动画](markdown/12-CSS3的转换,过渡,动画.md)
 * [13-弹性盒模型](dmarkdown/13-弹性盒模型.md)
 * [14-移动端布局方案](markdown/14-移动端布局方案.md)
-* [15-网格布局](docs\markdown\15-网格布局.md)
+* [15-网格布局](markdown/15-网格布局.md)
 * [16-CSS中的特殊样式](markdown/16-CSS中的特殊样式.md)
